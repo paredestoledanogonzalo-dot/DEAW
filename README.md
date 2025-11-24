@@ -1,5 +1,5 @@
 En este readme hay una tabla 
-<tabla>
+<table>
 <tr>
   <td>NOMBRE</td>
   <td>GITHUB</td>
